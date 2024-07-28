@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan42" alt="jeevan42" /></a> </p>
 
-- 👨‍💻 Portfolio here [http://jeevankumar.me/jeevan-kumar-portfolio/](http://jeevankumar.me/jeevan-kumar-portfolio/)
+- 👨‍💻 Portfolio here [https://l6urk-aiaaa-aaaal-ajo6a-cai.icp0.io/](https://l6urk-aiaaa-aaaal-ajo6a-cai.icp0.io/)
 
 - 📫 How to reach me **g1kumar05092002@gmail.com**
 
