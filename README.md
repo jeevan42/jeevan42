@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **g1kumar05092002@gmail.com**
 
-- 👨‍💻 Official Github **https://github.com/jeevanKumar42**
-
 - ⚡ Fun fact **I do what i need to do.**
 
 <h3 align="left">Connect with me:</h3>
