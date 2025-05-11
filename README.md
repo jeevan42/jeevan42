@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan Kumar</h1>
-<h3 align="center">A passionate Web and Mobile App developer from India</h3>
+<h3 align="center">A passionate Web and Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan42&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan42" /> </p>
 
