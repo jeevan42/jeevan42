@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate 3d profile
+    permissions:  # ✅ Add this
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
