@@ -4,9 +4,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![3D GitHub Profile](https://raw.githubusercontent.com/jeevan42/jeevan42/output/profile-3d-contrib/profile-night-green.svg)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan42&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan42" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan42" alt="jeevan42" /></a> </p>
