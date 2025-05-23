@@ -1,0 +1,15 @@
+name: Update 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Profile 3D Contributions
+        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        with:
+          username: jeevan42  # change if needed
