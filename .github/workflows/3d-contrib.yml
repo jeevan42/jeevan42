@@ -16,8 +16,8 @@ jobs:
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.5.0
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Yeh line jaruri hai
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push 3D graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
