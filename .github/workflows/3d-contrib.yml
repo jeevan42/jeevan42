@@ -9,13 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate 3d profile
-    permissions:  # ✅ Add this
+    permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.5.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Yeh line jaruri hai
 
       - name: Push 3D graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
