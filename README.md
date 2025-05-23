@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeevan Kumar</h1>
 <h3 align="center">A passionate Web and Mobile App developer</h3>
 
-![GitHub Snake light](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan42&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan42" /> </p>
