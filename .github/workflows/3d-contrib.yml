@@ -19,8 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: jeevan42
-        with:
-          args: --theme "night-green"
 
       - name: Push 3D graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
