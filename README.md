@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevan Kumar</h1>
-<h3 align="center">A passionate Web and Mobile App developer</h3>
+<h3 align="center">A passionate Web and Mobile App developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
