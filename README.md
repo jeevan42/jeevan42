@@ -30,3 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan42&" alt="jeevan42" /></p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/jeevan42/github-readme-quotes)
+
+[![G1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevan42&theme=github-compact)](https://github.com/jeevan42/github-readme-activity-graph)
