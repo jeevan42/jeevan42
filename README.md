@@ -2,7 +2,10 @@
 <br>
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
-<h3 align="center">A passionate Web and Mobile App developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h3>
+<h3 align="center">
+  A full-stack developer who crafts seamless Web & Mobile experiences — blending clean code, creative thinking, and a love for building impactful digital products. 🚀
+</h3>
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jeevan42/jeevan42/output/github-contribution-grid-snake.svg#gh-light-mode-only)
