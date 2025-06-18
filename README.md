@@ -16,11 +16,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan42" alt="jeevan42" /></a> </p>
 
 ---
-- 👨‍💻 Portfolio here -- [https://jeevankumar.me](https://l6urk-aiaaa-aaaal-ajo6a-cai.icp0.io)
+- 👨‍💻 Portfolio here — [https://jeevankumar.me](https://l6urk-aiaaa-aaaal-ajo6a-cai.icp0.io)
 
-- 📫 How to reach me -- **g1kumar05092002@gmail.com**
+- 📫 How to reach me — **g1kumar05092002@gmail.com**
 
-- ⚡ Fun fact -- **First I do it, then I do it right, and then I do it better.**
+- ⚡ Fun fact — **First I do it, then I do it right, and then I do it better.**
 
 ---
 <h3 align="left">Connect with me:</h3>
