@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **g1kumar05092002@gmail.com**
 
-- ⚡ Fun fact **I do what i need to do.**
+- ⚡ Fun fact **First I do it, then I do it right, and then I do it better.**
 
 ---
 <h3 align="left">Connect with me:</h3>
