@@ -3,7 +3,7 @@
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
 <h3 align="center">
-  A full-stack developer who crafts seamless Web & Mobile experiences — blending clean code, creative thinking, and a love for building impactful digital products. 🚀
+    A results-driven Full-Stack Developer with a passion for building scalable web & mobile solutions — turning ideas into interactive, user-centric experiences. 🚀
 </h3>
 
 
