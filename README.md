@@ -53,9 +53,9 @@
 [![G1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevan42&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
+<h3 align="left">Random programming jokes</h3>
 
 <div align="center">
- <p align="center"><i>Random programming jokes</i></p>
  <p ><img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%" /></p>
 </div>
 
