@@ -47,6 +47,10 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 ---
+
+<p><img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
+
+---
 [![G1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevan42&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
