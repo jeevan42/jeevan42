@@ -48,7 +48,12 @@
 
 ---
 
-<p><img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
+<div align="center">
+ <img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF">
+ <p align="center"><i>Random programming jokes</i></p>
+ <p><img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
+</div>
+
 
 ---
 [![G1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevan42&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
