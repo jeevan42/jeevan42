@@ -13,6 +13,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan42&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan42" /> </p>
 
 ---
+<h3 align="left">Github Profile Trophy</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan42&rank=-?&margin-w=15" alt="jeevan42" /></a> </p>
 
 ---
