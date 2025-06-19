@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevan42&label=Profile%20views&color=0e75b6&style=flat" alt="jeevan42" /> </p>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan42&row=3&column=3" alt="jeevan42" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan42&rank=-?" alt="jeevan42" /></a> </p>
 
 ---
 - 👨‍💻 Portfolio here — [https://jeevankumar.me](https://l6urk-aiaaa-aaaal-ajo6a-cai.icp0.io)
